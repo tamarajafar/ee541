@@ -1,6 +1,5 @@
 # EE 541 Homework 2
 Author: Tamara Jafar
-Student ID: YOUR_ID_HERE
 
 ## Contents
 
